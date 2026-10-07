@@ -1,0 +1,6 @@
+My name is [Diego kardava].
+
+I am learning Git and GitHub.
+
+I want to become comfortable using version control.
+

@@ -1,0 +1,7 @@
+Git tracks changes to files.
+
+A repository contains project files and Git history.
+
+A commit is a saved point in the project history.
+
+A branch allows me to work on changes separately.

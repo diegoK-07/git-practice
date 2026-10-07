@@ -1,0 +1,6 @@
+Learn Git
+Learn GitHub
+Practice commits
+Practice branches
+Practice merging
+Practice pull requests
