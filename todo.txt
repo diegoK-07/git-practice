@@ -4,3 +4,5 @@ Practice commits
 Practice branches
 Practice merging
 Practice pull requests
+Practice Git conflicts
+Become comfortable with Git
